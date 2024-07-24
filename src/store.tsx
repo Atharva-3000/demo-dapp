@@ -20,7 +20,7 @@ type EvmWalletAction = {
 };
 
 const networkConfig = {
-  chainId: "0x7A69",
+  chainId: "0x7a69",
   chainName: "ethereum localnet",
   rpcUrls: ["http://localhost:8545"],
   nativeCurrency: {
